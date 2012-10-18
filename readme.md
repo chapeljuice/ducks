@@ -26,4 +26,4 @@ This project is still in it's infancy, so i'll be adding a lot more features. Ri
 * Enhance row-inside-of-row capabilities.
 * Test in less modern browsers and make sure it works in the set I choose at that time.
 
-Have any suggestions? Let me hear them! Email me at <a href="mailto:chaprtc@gmail.com?subject=Ducks%20Suggestions">chaprtc@gmail.com</a>
+Have any suggestions? Let me hear them! Email me at <a href="mailto:chaprtc@gmail.com?subject=Ducks%20Suggestions">chaprtc@gmail.com</a>.
