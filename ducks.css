@@ -1,0 +1,76 @@
+/* ducks - a grid system */
+.row {
+	overflow: hidden;
+}
+
+.col {
+	float: left;
+	margin: 10px 1.9% 10px 0;
+}
+	.col:last-child{
+		margin-right: 0;
+	}
+
+.span1 {
+	width: 4.4%;
+}
+
+.span2 {
+	width: 10.8%;
+}
+
+.span3 {
+	width: 17.1%;
+}
+
+.span4 {
+	width: 23.5%;
+}
+
+.span5 {
+	width: 29.9%;
+}
+
+.span6 {
+	width: 36.2%;
+}
+
+.span7 {
+	width: 42.6%;
+}
+
+.span8 {
+	width: 49%;
+}
+
+.span9 {
+	width: 55.3%;
+}
+
+.span10 {
+	width: 61.7%;
+}
+
+.span11 {
+	width: 68.1%;
+}
+
+.span12 {
+	width: 74.5%;
+}
+
+.span13 {
+	width: 80.8%;
+}
+
+.span14 {
+	width: 87.2%;
+}
+
+.span15 {
+	width: 93.6%;
+}
+
+.span16 {
+	width: 100%;
+}
