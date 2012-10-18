@@ -1,0 +1,59 @@
+/* goose - a compliment to ducks */
+* {
+	-moz-box-sizing: border-box;
+	 -ms-box-sizing: border-box;
+		-o-box-sizing: border-box;
+			 box-sizing: border-box;
+
+}
+
+body {
+	background: #eee;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 13px;
+	margin: 30px auto;
+	max-width: 1200px;
+}
+
+h1,
+h2 {
+	margin: 5px 20px;
+}
+
+h1 {
+	font-size: 20px;
+}
+
+h2 {
+	font-size: 16px;
+	font-weight: normal;
+}
+
+.row{
+	margin: 0 20px;
+}
+
+.col {
+	background: #fff;
+	border-radius: 4px;
+	padding: 10px;
+	text-align: center;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+.redo {
+	color: #800;
+	display: inline-block;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", verdana, sans-serif;
+	margin-left: 3px;
+	position: relative;
+		top: -9px;
+	-webkit-transform: rotate( -15deg );
+		 -moz-transform: rotate( -15deg );
+			-ms-transform: rotate( -15deg );
+			 -o-transform: rotate( -15deg );
+					transform: rotate( -15deg );
+}
